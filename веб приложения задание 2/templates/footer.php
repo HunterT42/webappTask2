@@ -10,7 +10,8 @@
                 </li>
                 <li><a href="logout.php">Разлогиниться</a></li>
             </ul>
-            <p>&copy; <?php echo date("Y"); ?> Мой сайт объявлений. Все права направо.</p>
+            <p>&copy; <?php echo date("Y"); ?> Мой сайт объявлений.
+            </p>
         </div>
     </footer>
 </body>
